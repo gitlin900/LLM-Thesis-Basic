@@ -1,8 +1,7 @@
 
 1 Attention Is All You Need (Vaswani et al., 2017) 《注意力就是你需要的一切》 Transformer 原论文.系统介绍了自注意力,多头注意力以及编码器-解码器架构（尽管现代大多数大语言模型采用 decoder-only 结构）. 
 
-
-2 The Illustrated Transformer (Jay Alammar, 2018) 《图解 Transformer》 极佳的直觉构建材料，帮助在阅读实现代码前深入理解注意力机制和张量流动。
+2 The Illustrated Transformer (Jay Alammar, 2018) 《图解 Transformer》 极佳的直觉构建材料，帮助在阅读实现代码前深入理解注意力机制和张量流动.
 
 3 BERT: Pre-training of Deep Bidirectional Transformers (Devlin et al., 2018) 《BERT：深度双向 Transformer 的预训练》 编码器侧基础，掩码语言建模（MLM）和表示学习，至今仍深刻影响现代架构设计。
 
